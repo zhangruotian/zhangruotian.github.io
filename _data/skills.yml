@@ -14,7 +14,7 @@ packages:
 
 tools:
   - item: Linux & Shell
-  - item: Could & AWS
+  - item: Cloud & AWS
   - item: RDBS & SQL
   - item: Git & Github
   - item: Docker
