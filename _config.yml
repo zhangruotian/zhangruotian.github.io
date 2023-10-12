@@ -1,26 +1,22 @@
 # Site settings
-name: Brittany Chiang
-title: Brittany Chiang | Front End Software Engineer
-description: Design-minded front-end software engineer focused on building beautiful interfaces and experiences
-url: https://bchiang7.github.io/
+name: Ruotian Zhang
+title: Ruotian Zhang | Machine Learning Engineer
+description: Machine learning engineer focused on image retrieval with deep learning techniques
+url: https://zhangruotian.github.io/
 baseurl: ''
-email: brittany.chiang@gmail.com
-cover: https://bchiang7.github.io/img/og.png
-logo: https://bchiang7.github.io/img/emojis/technologist.png
-resume: https://bchiang7.github.io/resume.pdf
+email: zhangruotian1992@gmail.com
+#cover: https://bchiang7.github.io/img/og.png
+logo: https://zhangruotian.github.io/img/emojis/technologist.png
+#resume: https://bchiang7.github.io/resume.pdf
 social:
   - title: email
-    url: mailto:brittany.chiang@gmail.com
+    url: mailto:zhangruotian1992@gmail.com
   - title: twitter
-    url: https://twitter.com/bchiang7
-  - title: instagram
-    url: https://instagram.com/bchiang7
-  - title: codepen
-    url: http://codepen.io/bchiang7
+    url: https://twitter.com/maveric66137659
   - title: github
-    url: https://github.com/bchiang7
+    url: https://github.com/zhangruotian
   - title: linkedin
-    url: https://www.linkedin.com/in/bchiang7
+    url: https://www.linkedin.com/in/ruotian-zhang
 
 # Build settings
 markdown: kramdown

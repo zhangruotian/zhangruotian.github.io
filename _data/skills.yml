@@ -1,33 +1,33 @@
-languages:
-  - item: JavaScript (ES6)
-  - item: TypeScript
-  - item: HTML
-  - item: CSS/Sass
+programming languages:
   - item: Python
-  - item: SQL
-  - item: R
+  - item: Javascript
 
-frameworks:
-  - item: Ember & Glimmer
-  - item: React
-  - item: Jekyll
-  - item: Node
-  - item: D3
-  - item: Wordpress
-  - item: Timber
+packages:
+  - item: Pytorch
+  - item: Flask
+  - item: FastAPI
+  - item: Streamlit
+  - item: Dash & Plotly
+  - item: Scipy & Sklearn
+  - item: Numpy & Pandas & Matplotlib
 
 tools:
-  - item: Bash
+  - item: Linux & Shell
+  - item: Could & AWS
   - item: Git & Github
-  - item: Gulp & Grunt
-  - item: Chrome DevTools
-  - item: Postman
-  - item: MongoDB
+  - item: Docker & Kubernetes
+  - item: RDBS & SQL
+  - item: Nosql & MongoDB
+  - item: Milvus
+  - item: Google Workspace & MS Office & LaTeX
 
-design:
-  - item: Sketch
-  - item: InDesign
-  - item: InVision
-  - item: Prototyping
-  - item: Wireframing
-  - item: User Testing
+knowledges:
+  - item: Machine Learning
+  - item: Deep Learning
+  - item: Computer Vision
+  - item: Data Analysis & Visualisation
+  - item: Web Scraping
+
+human languages:
+  - item: Chinese
+  - item: English (learning)
