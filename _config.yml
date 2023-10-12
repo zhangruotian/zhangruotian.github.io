@@ -7,7 +7,7 @@ baseurl: ''
 email: zhangruotian1992@gmail.com
 #cover: https://bchiang7.github.io/img/og.png
 logo: https://zhangruotian.github.io/img/emojis/technologist.png
-resume: https://github.com/zhangruotian/zhangruotian.github.io/blob/master/resume.pdf
+resume: https://zhangruotian.github.io/resume.pdf
 social:
   - title: email
     url: mailto:zhangruotian1992@gmail.com
