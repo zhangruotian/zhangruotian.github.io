@@ -7,27 +7,30 @@ packages:
   - item: Flask
   - item: FastAPI
   - item: Streamlit
-  - item: Dash & Plotly
-  - item: Scipy & Sklearn
-  - item: Numpy & Pandas & Matplotlib
+  - item: Dash
+  - item: Sklearn
+  - item: Pandas
+  - item: Seaborn
 
 tools:
   - item: Linux & Shell
   - item: Could & AWS
-  - item: Git & Github
-  - item: Docker & Kubernetes
   - item: RDBS & SQL
-  - item: Nosql & MongoDB
+  - item: Git & Github
+  - item: Docker
+  - item: Datadog
+  - item: Kubernetes
+  - item: MongoDB
   - item: Milvus
-  - item: Google Workspace & MS Office & LaTeX
+  - item: LaTex
 
 knowledges:
   - item: Machine Learning
   - item: Deep Learning
   - item: Computer Vision
-  - item: Data Analysis & Visualisation
-  - item: Web Scraping
+  - item: Algorithm
+  - item: Data Analysis
+  - item: Data Visualisation
 
-human_languages:
-  - item: Chinese
-  - item: English (learning)
+
+

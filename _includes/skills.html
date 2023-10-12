@@ -4,7 +4,7 @@
     <!-- <p>I’ve picked up quite a few skills during the course of my three co-ops, and aim to improve these skills everyday. Here are a few of the technologies that I have experience with:</p> -->
     <div class="skillz">
       <div class="skillz__category">
-        <div class="skillz__category__label">Programming Languages</div>
+        <div class="skillz__category__label">Languages</div>
         <ul>
           {% for programming_language in site.data.skills.programming_languages %}
           <li class="skillz__category__item">{{programming_language.item}}</li>
@@ -32,14 +32,6 @@
         <ul>
           {% for knowledge in site.data.skills.knowledges %}
           <li class="skillz__category__item">{{knowledge.item}}</li>
-          {% endfor %}
-        </ul>
-      </div>
-      <div class="skillz__category">
-        <div class="skillz__category__label">Human Languages</div>
-        <ul>
-          {% for human_language in site.data.skills.human_languages %}
-          <li class="skillz__category__item">{{human_language.item}}</li>
           {% endfor %}
         </ul>
       </div>
