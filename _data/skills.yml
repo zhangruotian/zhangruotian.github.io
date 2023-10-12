@@ -18,8 +18,8 @@ tools:
   - item: RDBS & SQL
   - item: Git & Github
   - item: Docker
-  - item: Datadog
   - item: Kubernetes
+  - item: Datadog
   - item: MongoDB
   - item: Milvus
   - item: LaTex
