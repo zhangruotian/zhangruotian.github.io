@@ -1,4 +1,4 @@
-programming languages:
+programming_languages:
   - item: Python
   - item: Javascript
 
@@ -28,6 +28,6 @@ knowledges:
   - item: Data Analysis & Visualisation
   - item: Web Scraping
 
-human languages:
+human_languages:
   - item: Chinese
   - item: English (learning)
